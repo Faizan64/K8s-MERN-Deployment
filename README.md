@@ -24,7 +24,7 @@ Docker Images stored on Docker Hub
 | Frontend | `faizann16/frontend-wanderlust` 
 | Backend  | `faizann16/backend-wanderlust`  
 
-![image alt]()
+![image alt](https://github.com/Faizan64/K8s-MERN-Deployment/blob/master/Screenshot%202025-11-12%20161135.png?raw=true)
 
 
 
