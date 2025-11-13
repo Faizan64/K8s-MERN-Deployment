@@ -1,1 +1,1 @@
-# K8s-MERN-Deployment
+# 🚀 WanderLust – MERN Stack Application Deployed on Kubernetes (AWS EC2)
