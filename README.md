@@ -25,7 +25,7 @@ Docker Images stored on Docker Hub
 | Backend  | `faizann16/backend-wanderlust`  
 
 
-https://github.com/Faizan64/K8s-MERN-Deployment/blob/master/Screenshot%202025-11-12%20161135.png?raw=true)
+![image alt](https://github.com/Faizan64/K8s-MERN-Deployment/blob/master/Screenshot%202025-11-12%20161135.png?raw=true)
 
 # ☸️ Kubernetes Deployment
 
@@ -53,6 +53,24 @@ All deployments show 1/1 READY.
 | backend-service  | NodePort  | 31100 |
 | mongo-service    | ClusterIP | 27017 |
 | redis-service    | ClusterIP | 6379  |
+
+# 🌐 Public Access (AWS EC2 NodePort)
+
+## Frontend UI fully accessible
+
+![image alt](https://github.com/Faizan64/K8s-MERN-Deployment/blob/master/Screenshot%202025-11-12%20160707.png?raw=true)
+
+## Backend live
+
+![image alt](https://github.com/Faizan64/K8s-MERN-Deployment/blob/master/Screenshot%202025-11-12%20160649.png?raw=true)
+
+Both services were successfully tested and working on the deployed cluster.
+
+# AWS EC2 master & worker nodes
+
+![image alt](https://github.com/Faizan64/K8s-MERN-Deployment/blob/master/Screenshot%202025-11-12%20161025.png?raw=true)
+
+
 
 
 
