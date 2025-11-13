@@ -17,3 +17,12 @@ Full Kubernetes Deployment
 Exposed via NodePort on AWS EC2
 
 Docker Images stored on Docker Hub
+
+# 🐳 Docker Images Used
+| Image    | Repository                      
+| -------- | ------------------------------- 
+| Frontend | `faizann16/frontend-wanderlust` 
+| Backend  | `faizann16/backend-wanderlust`  
+
+
+
